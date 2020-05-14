@@ -1,0 +1,16 @@
+{
+  "MODEL_DIR": "./tmp",
+  "MODEL_NAME": "gs_result.pkl",
+  "MODEL_PATH": "./tmp/gs_result.pkl",
+  "parameters": {
+    "C": [
+      1,
+      10
+    ],
+    "kernel": [
+      "linear",
+      "rbf"
+    ]
+  },
+  "seed": 638422956
+}
