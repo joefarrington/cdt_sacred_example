@@ -3,7 +3,7 @@ from sacred import Experiment
 from sklearn import svm, datasets
 from sklearn.model_selection import GridSearchCV
 from sacred.observers import FileStorageObserver
-from sklearn.externals import joblib
+import joblib
 import os
 
 # Create an experiment
