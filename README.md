@@ -32,5 +32,9 @@ Each run will have it's own folder with 4 files:
 It can be useful to extract those results with functions such as our example in `sacred_utils.py`. But really sacred has
 all ready done the work for you! 
 
+## More information
+
 We've only really touched the surface, the docs are very nice and contain loads more and better descriptions of things 
 https://sacred.readthedocs.io/en/stable/index.html.
+
+There's also a good video introduction with motivating examples by Klaus Greff here: https://www.youtube.com/watch?v=qqg7RO0o1OE
