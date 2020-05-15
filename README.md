@@ -1,2 +1,2 @@
-# cdt_sacred_example
+# CDT Sacred Demo
 Sacred demo to share with the CDT
