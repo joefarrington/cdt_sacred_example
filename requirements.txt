@@ -6,7 +6,7 @@ importlib-metadata==1.6.0
 joblib==0.15.0
 jsonpickle==1.4.1
 munch==2.5.0
-numpy==1.18.4
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 py-cpuinfo==5.0.0
