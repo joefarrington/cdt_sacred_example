@@ -15,7 +15,7 @@ python-dateutil==2.8.1
 pytz==2020.1
 sacred==0.8.1
 scikit-learn==0.23.0
-scipy==1.4.1
+scipy==1.10.0
 six==1.14.0
 sklearn==0.0
 smmap==3.0.4
